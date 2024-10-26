@@ -24,6 +24,9 @@ Reliability: High system uptime and fault tolerance, ensuring continuous operati
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
+![Picture2](https://github.com/user-attachments/assets/445fc1af-b9e6-41fe-844a-615414e89f23)
+
+
 ![Picture1](https://github.com/user-attachments/assets/e3312c7d-8840-41e1-b45e-1544cde53ee7)
 
 ## Output
